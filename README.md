@@ -2,6 +2,8 @@
 
 Notes for a talk I gave at [Mastering LLMs: A Conference For Developers & Data Scientists](https://maven.com/parlance-labs/fine-tuning).
 
+Here is the [full 67 minute talk video](https://twitter.com/hamelhusain/status/1800741994899394612).
+
 - [Datasette](https://datasette.io/)
 - [My blog](https://simonwillison.net/)
 - [LLM](https://llm.datasette.io/en/stable/)
