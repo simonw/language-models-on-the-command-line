@@ -62,7 +62,7 @@ https://simonwillison.net/2024/Apr/8/files-to-prompt/
 
 JSON output for Google search results:
 
-```json
+```bash
 shot-scraper javascript 'https://www.google.com/search?q=nytimes+slop' '
 Array.from(
   document.querySelectorAll("h3"),
